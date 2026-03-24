@@ -48,6 +48,7 @@
 
 ---
 🔗 Live Demo: [(https://aero-pulse.netlify.app/)]
-Desarrollado con ❤️ por **[Oscar Lopez (Russo)](https://github.com/oscardjld)** - *Frontend Developer & Designer*
+
+**Desarrollado con ❤️ por **[Oscar Lopez (Russo)](https://github.com/oscardjld)** - *Frontend Developer & Designer*
 
 🔗 **[Ver mi Portafolio Personal](https://portfoliorusso.netlify.netlify.app/)**
